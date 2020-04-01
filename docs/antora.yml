@@ -3,4 +3,4 @@ title: Outdoor Recreation
 version: dev
 nav: 
 - modules/ROOT/nav.adoc
-- modules/Backpacking/nav.adoc
+- modules/backpacking/nav.adoc
